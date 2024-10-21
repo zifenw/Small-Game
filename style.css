@@ -1,0 +1,16 @@
+*{
+  padiding: 0;
+  margin: 0;
+  box-sizeing: border-box
+}
+html,body{
+  font-family: "Poppings", sans-serif;
+  color: white;
+  background-color: #222738;
+}
+canvas{
+  background-color: #222738;
+}
+.container{
+  position:
+}
